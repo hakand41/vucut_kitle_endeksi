@@ -1,6 +1,15 @@
 # vke
 
-A new Flutter project.
+Başlangıç seviyesi vücüt kitle endeksi hesaplama uygulaması
+
+
+# görsel 1
+
+![Screenshot_20240202_100121](https://github.com/hakand41/vucut_kitle_endeksi/assets/98481026/a32c41ae-d44d-4581-b93d-99fb565fa013)
+
+# görsel 2
+
+![Screenshot_20240202_100150](https://github.com/hakand41/vucut_kitle_endeksi/assets/98481026/53683d5b-a99b-4d63-89c4-1e3ab0f2bac1)
 
 ## Getting Started
 
